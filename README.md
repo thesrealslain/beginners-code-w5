@@ -10,5 +10,6 @@ This is the next continuation of the code journey, week five's content.
 - `square-and-circle-animation-test` - A file containing the code for a animation containing the circle & square graphical objects from week 5.
 - `stick-figure-test` - A file containing the code for a stick figure that has been enhance with a skateboard from week 5.
 - `stick-figure-animation-test` - A file containing the code for a animation containing a stick figure and a skateboard from week 5.
+- `stick-figure-with-clothes-test` - A file containing the code for a stick figure that has been enhance with a hat, gloves and shoes from week 5.
 
 
